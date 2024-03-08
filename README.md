@@ -9,6 +9,12 @@ A new construction project.
 
 ![](./screenshots/login.jpg)
 ![](./screenshots/signup.jpg)
+![](./screenshots/dashboard.jpg)
+![](./screenshots/sidenav.jpg.jpg)
+![](./screenshots/seller_marketplace.jpg)
+![](./screenshots/smp_details_screen.jpg)
+![](./screenshots/confirm_bottom_sheet.jpg)
+![](./screenshots/create_post.jpg)
 
 ## Getting Started
 
